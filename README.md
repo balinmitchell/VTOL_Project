@@ -45,5 +45,5 @@ After a fatal incident which resulted in the main wing snapping in half I decide
 * Lower wing loading and more aggresive wing aerofoil section for slower flight.
 * 'Pusher' motor configuration instead of a 'tractor' setup, this will limit damage to the prop and motor during crashes.
 
-[![Twinboom](res/twinboom.JPG)]
+![Twinboom](res/twinboom.JPG)
 
