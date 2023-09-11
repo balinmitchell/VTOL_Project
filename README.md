@@ -32,7 +32,7 @@ Doing some research into a good starting point for a beginner I came across Test
  
 The following video shows the first successful flight of the Tiny Trainer and was an exciting moment to finally fly the plane.
 
-[![Error Loading Video Thumbnail](res/thumbnail.png)](https://youtu.be/ZuyZEzpiWu4)
+[![Error Loading Video Thumbnail](res/Thumbnail.png)](https://youtu.be/ZuyZEzpiWu4)
 
 
 
