@@ -49,7 +49,8 @@ After a fatal incident which resulted in the main wing snapping in half I decide
 
 
 ## Fixed Wing FC Build
-Version one of the flight controller utilises an Arduino Nano and an MPU6050 IMU. Pre-punched circuit board and some female headers were used to make a base where the nano could still be removed. The MPU6050 is connected remotely via 4 wires to allow it to be located closer to the CoM of the plane.
+Version one of the flight controller utilises an Arduino Nano and an MPU6050 IMU. Pre-punched circuit board and some female headers were used to make a base where the nano could still be removed. The MPU6050 is connected remotely via 4 wires to allow it to be located closer to the CoM of the plane. 
 
-## Quadcopter Build
+After running the flight control code on the Arduino Nano it was clear that the speed would be limitng factor. A maximum of 250Hz was reached during testing.
+
 
